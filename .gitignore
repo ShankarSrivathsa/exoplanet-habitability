@@ -1,0 +1,28 @@
+# Python virtual environment
+venv/
+env/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Data files (optional - uncomment if you don't want to track large CSV files)
+# *.csv
+
+# OS files
+.DS_Store
+Thumbs.db
