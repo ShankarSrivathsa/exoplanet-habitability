@@ -20,8 +20,9 @@ dist/
 build/
 *.egg-info/
 
-# Data files (optional - uncomment if you don't want to track large CSV files)
-# *.csv
+# Data files - Large CSV datasets from NASA Exoplanet Archive
+*.csv
+
 
 # OS files
 .DS_Store
