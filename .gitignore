@@ -20,6 +20,9 @@ dist/
 build/
 *.egg-info/
 
+#Kiro spec files
+.kiro/
+
 # Data files - Large CSV datasets from NASA Exoplanet Archive
 *.csv
 
