@@ -86,5 +86,5 @@ This research has made use of the NASA Exoplanet Archive, which is operated by t
 ## Author
 
 **A Shankar Srivathsa** — Final year, CSE (AI & ML), Geethanjali College of Engineering and Technology.
-Working toward ML engineering with astrophysics domain expertise.
-Open to collaboration on exoplanet characterization, astrobiology, and ML-for-astronomy.
+Working toward ML engineering with astrophysics.
+Open to collaboration on exoplanet characterization, and ML-for-astronomy.
