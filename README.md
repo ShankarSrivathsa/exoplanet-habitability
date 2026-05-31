@@ -50,7 +50,7 @@ NASA Exoplanet Archive
 
 Top candidates from the Phase 1 pipeline (NASA Exoplanet Archive, Planetary System Composite Data):
 
-| Planet Name | ESI | HZD | SEPHI | Combined Score | Tidal Lock |
+| S No| Planet Name | ESI | HZD | SEPHI | Combined Score | Tidal Lock |
 | --- | --- | --- | --- | --- | --- |
 | 0 | GJ 1061 d | 0.873787 | 0.999570 | 0.927434 | 0.932182 | ✅ Locked |
 | 1 | GJ 667 C f | 0.835860 | 0.968433 | 0.967638 | 0.921805 | ⚠️ Likely Locked |
