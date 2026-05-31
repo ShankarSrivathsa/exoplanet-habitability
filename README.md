@@ -50,16 +50,16 @@ NASA Exoplanet Archive
 
 Top candidates from the Phase 1 pipeline (NASA Exoplanet Archive, Planetary System Composite Data):
 
-| Planet | ESI | HZD | SEPHI | Final Score | Tidal Lock |
-|---|---|---|---|---|---|
-| Wolf 1069 b | 0.974 | 0.895 | 0.440 | 0.726 | ✅ Locked |
-| TRAPPIST-1 e | 0.951 | 0.903 | 0.419 | 0.711 | ✅ Locked |
-| Kepler-442 b | 0.913 | 0.827 | 0.447 | 0.696 | ❌ Not locked |
-| GJ 1002 b | 0.926 | 0.864 | 0.395 | 0.681 | ✅ Locked |
-| Proxima Cen b | 0.889 | 0.909 | 0.300 | 0.624 | ✅ Locked |
-| TOI-715 b | 0.855 | 0.807 | 0.347 | 0.621 | ✅ Locked |
-| GJ 667C f | 0.836 | 0.968 | 0.199 | 0.544 | ⚠️ Likely locked |
-| GJ 1061 d | 0.874 | 1.000 | 0.087 | 0.424 | ✅ Locked |
+| Planet Name | ESI | HZD | SEPHI | Combined Score | Tidal Lock |
+| --- | --- | --- | --- | --- | --- |
+| 0 | GJ 1061 d | 0.873787 | 0.999570 | 0.927434 | 0.932182 | ✅ Locked |
+| 1 | GJ 667 C f | 0.835860 | 0.968433 | 0.967638 | 0.921805 | ⚠️ Likely Locked |
+| 2 | Kepler-442 b | 0.912707 | 0.826603 | 0.962354 | 0.898782 | ❌ Not Locked |
+| 3 | Wolf 1069 b | 0.974170 | 0.895218 | 0.815817 | 0.892727 | ✅ Locked |
+| 4 | TRAPPIST-1 e | 0.951359 | 0.903434 | 0.755585 | 0.865980 | ✅ Locked |
+| 5 | Proxima Cen b | 0.889379 | 0.909200 | 0.801853 | 0.865527 | ✅ Locked |
+| 6 | GJ 1002 b | 0.926202 | 0.864048 | 0.796679 | 0.860681 | ✅ Locked |
+| 7 | TOI-715 b | 0.854830 | 0.807265 | 0.905702 | 0.854989 | ✅ Locked |
 
 7 of the 8 top-ranked planets are around M-dwarf stars and are tidally locked or very likely so. Kepler-442 b (K-dwarf, 112-day orbit) is the lone exception — and the only one with Earth-like day-night cycles. This observation directly motivates the TLHI extension.
 
