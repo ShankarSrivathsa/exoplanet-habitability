@@ -73,7 +73,7 @@ cd exoplanet-habitability
 pip install -r requirements.txt
 ```
 
-Then open `notebook.ipynb` in Jupyter.
+Then open `phase_one.ipynb` in Jupyter. (for Phase 1 -> ESI-HZD-SEPHI pipeline)
 
 ---
 
