@@ -70,7 +70,7 @@ EARTH_REFERENCE = {
 # HEADER
 # ═════════════════════════════════════════════════════════════════════════════
 
-st.title("🪐 ESI_Hab — Exoplanet Habitability Pipeline")
+st.title("🪐 Exoplanet Habitability Pipeline")
 st.caption("Phase 1 Methodology Demonstration • Interactive Visual Walkthrough")
 
 st.markdown("""
